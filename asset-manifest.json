@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NoteTakingApp/static/css/main.e6e4ea98.chunk.css",
+    "main.js": "/NoteTakingApp/static/js/main.fe19fc7d.chunk.js",
+    "main.js.map": "/NoteTakingApp/static/js/main.fe19fc7d.chunk.js.map",
+    "runtime-main.js": "/NoteTakingApp/static/js/runtime-main.d01056b0.js",
+    "runtime-main.js.map": "/NoteTakingApp/static/js/runtime-main.d01056b0.js.map",
+    "static/js/2.91b9cb10.chunk.js": "/NoteTakingApp/static/js/2.91b9cb10.chunk.js",
+    "static/js/2.91b9cb10.chunk.js.map": "/NoteTakingApp/static/js/2.91b9cb10.chunk.js.map",
+    "index.html": "/NoteTakingApp/index.html",
+    "precache-manifest.6fd7e81cbc6ff75c8250cc78b49d5cd3.js": "/NoteTakingApp/precache-manifest.6fd7e81cbc6ff75c8250cc78b49d5cd3.js",
+    "service-worker.js": "/NoteTakingApp/service-worker.js",
+    "static/css/main.e6e4ea98.chunk.css.map": "/NoteTakingApp/static/css/main.e6e4ea98.chunk.css.map",
+    "static/js/2.91b9cb10.chunk.js.LICENSE.txt": "/NoteTakingApp/static/js/2.91b9cb10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01056b0.js",
+    "static/js/2.91b9cb10.chunk.js",
+    "static/css/main.e6e4ea98.chunk.css",
+    "static/js/main.fe19fc7d.chunk.js"
+  ]
+}
